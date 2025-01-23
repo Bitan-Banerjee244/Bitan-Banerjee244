@@ -1,6 +1,6 @@
 <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="banner image"/>
 <h1 align="center">Hi 👋, I'm Bitan Banerjee</h1>
-<h3 align="center">A passionate in web development and Programing from India</h3>
+<h3 align="center">I am a passionate  web developer and Programmer from India</h3>
 <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" alt="Coding" align="right" width="350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitan-banerjee244&label=Profile%20views&color=0e75b6&style=flat" alt="bitan-banerjee244" /> </p>
 
