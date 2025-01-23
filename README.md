@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&locale=en" alt="bitan-banerjee244" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244" alt="bitan-banerjee244&" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244" alt="bitan-banerjee244" /></p>
