@@ -73,10 +73,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bitan-banerjee244&theme=github" alt="GitHub Activity Graph"/>
 </p>
 
-### 🐍 **Snake Contribution Graph:**
 
-<p align="center">
-  <img src="https://github.com/bitan-banerjee244/bitan-banerjee244/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
-</p>
 
 <h2 align="center">Thanks For Visiting</h2>
