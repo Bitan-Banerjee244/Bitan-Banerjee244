@@ -36,7 +36,7 @@
 <hr>
 
 
-### 🌐 **Connect with Me (Alphabetical Order):**
+### 🌐 **Connect with Me:**
 
 <p align="left">
 <a href="https://leetcode.com/u/CodingBitan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
@@ -47,7 +47,7 @@
 
 
 
-### 🏆 **GitHub Stats with Custom Colors:**
+### 🏆 **GitHub Stats:**
 
 
 
