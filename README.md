@@ -10,8 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitan-banerjee244&label=Profile%20views&color=0e75b6&style=flat" alt="bitan-banerjee244" /> </p>
 
 ### 🔍 **About Me:**
-- 🌱 I’m currently learning **React & Node.js**
-- 💬 Ask me about **HTML, CSS, JavaScript, C/C++**
+- 🌱 I’m currently learning **Node.js & MongoDB**
+- 💬 Ask me about **JavaScript, C/C++, Python , React JS**
 - 📫 Reach me at **bbitan244@gmail.com**
 - ⚡ Fun fact: **"I love solving coding problems and exploring new technologies!"**
 <br><br>
