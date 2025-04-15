@@ -1,7 +1,7 @@
 <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="banner image" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=700&color=purple&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bitan+Banerjee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=700&color=purple&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bitan+Banerjee" alt="Typing SVG" />
 </p>
 <h3 align="center">🚀 Passionate Web Developer & Programmer from India 🇮🇳</h3>
 
