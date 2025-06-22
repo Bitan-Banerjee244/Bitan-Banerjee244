@@ -104,6 +104,7 @@
 </p>
 
 ### 🔥 **🎮 Snake Game of My GitHub Commits**
+<img src="https://raw.githubusercontent.com/Bitan-Banerjee244/Bitan-Banerjee244/output/github-snake-dark.svg" style="width: 100%;" alt="GitHub Snake dark mode animation" />
 
-![snake gif](https://github.com/Bitan-Banerjee244/Bitan-Banerjee244/blob/output/github-snake-dark.svg)
+<hr>
 <h2 align="center">Thanks For Visiting</h2>
