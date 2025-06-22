@@ -3,18 +3,18 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */6 * * *"  # Every 6 hours
-  workflow_dispatch:       # Allow manual trigger from UI
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repo
+      # Step 1: Checkout
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the Snake Animation
+      # Step 2: Generate Snake animation
       - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
@@ -26,15 +26,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Optional Debug
-      - name: List output files
+      # Debugging output
+      - name: List generated files
         run: ls -la dist
 
-      # Step 3: Deploy to the 'output' branch
-      - name: Deploy to GitHub Pages (output branch)
+      # Step 3: Deploy to output branch (GitHub Pages)
+      - name: Deploy animation to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true
           commit_message: "Update GitHub Snake animation [skip ci]"
