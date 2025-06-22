@@ -96,7 +96,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bitan-banerjee244&theme=radical" alt="GitHub Trophies" width="100%"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bitan-banerjee244&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
+</p>
 
+###  **🎮 Snake Game of My GitHub Commits**
+<img src="https://raw.githubusercontent.com/Bitan-Banerjee244/Bitan-Banerjee244/output/github-snake-dark.svg" style="width: 100%;" alt="GitHub Snake dark mode animation" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" width="100%"/>
 </p>
@@ -105,12 +110,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244&theme=radical" alt="GitHub Streak" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bitan-banerjee244&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
-</p>
 
-### 🔥 **🎮 Snake Game of My GitHub Commits**
-<img src="https://raw.githubusercontent.com/Bitan-Banerjee244/Bitan-Banerjee244/output/github-snake-dark.svg" style="width: 100%;" alt="GitHub Snake dark mode animation" />
+
 
 <hr>
 <h2 align="center">Thanks For Visiting</h2>
