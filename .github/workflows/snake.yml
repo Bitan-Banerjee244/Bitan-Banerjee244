@@ -1,41 +1,97 @@
-name: Generate Snake
+name: GitHub Snake GameAdd commentMore actions
+
+
 
 on:
+
+  # Schedule the workflow to run daily at midnight UTC
+
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
-  workflow_dispatch:       # Allow manual trigger
+
+    - cron: "0 0 * * *"
+
+
+
+  # Allow manual triggering of the workflow
+
+  workflow_dispatch:
+
+
+
+  # Trigger the workflow on pushes to the main branch
+
+  push:
+
+    branches:
+
+      - main
+
+
 
 jobs:
-  build:
+
+  generate:
+
     runs-on: ubuntu-latest
 
+    timeout-minutes: 10
+
+
+
     steps:
-      # Step 1: Checkout
+
+      # Step 1: Checkout the repository
+
       - name: Checkout Repository
+
         uses: actions/checkout@v3
 
-      # Step 2: Generate Snake animation
-      - name: Generate GitHub Contributions Snake
+
+
+      # Step 2: Generate the snake animations
+
+      - name: Generate GitHub Contributions Snake Animations
+
         uses: Platane/snk@v3
+
         with:
-          github_user_name: Bitan-Banerjee244
+
+          # GitHub username to generate the animation for
+
+          github_user_name: ${{ github.repository_owner }}
+
+
+
+          # Define the output files and their configurations
+
           outputs: |
+
             dist/github-snake.svg
+
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=orange&color_dots=#b5e8f2,#7ac7ff,#58a9f4,#3881f1,#276ac3
+
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Debugging output
-      - name: List generated files
-        run: ls -la dist
 
-      # Step 3: Deploy to output branch (GitHub Pages)
-      - name: Deploy animation to output branch
+
+      # Step 3: Deploy the generated files to the 'output' branch
+
+      - name: Deploy to Output Branch
+
         uses: peaceiris/actions-gh-pages@v3
+
         with:
+
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
           publish_dir: ./dist
+
           publish_branch: output
-          force_orphan: true
-          commit_message: "Update GitHub Snake animation [skip ci]"
+
+          # Optionally, you can set a custom commit message
+
+          commit_message: "Update snake animation [skip ci]"
