@@ -103,10 +103,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bitan-banerjee244&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
 </p>
 
-### 🔥 **GitHub Activity Graph:**
+### 🔥 **🎮 Snake Game of My GitHub Commits**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bitan-banerjee244&theme=github" alt="GitHub Activity Graph"/>
-</p>
-
+![snake gif](https://github.com/Bitan-Banerjee244/Bitan-Banerjee244/blob/output/github-snake-dark.svg)
 <h2 align="center">Thanks For Visiting</h2>
