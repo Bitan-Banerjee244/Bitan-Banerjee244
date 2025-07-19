@@ -3,22 +3,27 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=700&color=purple&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bitan+Banerjee" alt="Typing SVG" />
 </p>
+
 <h3 align="center">🚀 Passionate Web Developer & Programmer from India 🇮🇳</h3>
 
 <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" alt="Coding" align="right" width="350" style="margin-top: -20px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitan-banerjee244&label=Profile%20views&color=0e75b6&style=flat" alt="bitan-banerjee244" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bitan-banerjee244&label=Profile%20views&color=0e75b6&style=flat" alt="bitan-banerjee244" /> 
+</p>
 
 ### 🔍 **About Me:**
 - 🌱 I’m currently learning **Node.js & MongoDB**
-- 💬 Ask me about **JavaScript, C/C++, Python , React JS**
+- 💬 Ask me about **JavaScript, C/C++, Python, React JS**
 - 📫 Reach me at **bbitan244@gmail.com**
 - ⚡ Fun fact: **"I love solving coding problems and exploring new technologies!"**
-<br><br>
+
+<br>
 
 ### 🚀 **Tech Stack & Tools:**
 
 <p align="left"> 
+  <!-- Add your tools as before -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -70,10 +75,9 @@
  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40" />
 </a>
-
-</a>
-
 </p>
+
+---
 
 ### 🌐 **Connect with Me:**
 
@@ -89,19 +93,30 @@
   </a>
 </p>
 
-<hr>
+---
 
 ### 🏆 **GitHub Stats:**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bitan-banerjee244&theme=radical" alt="GitHub Trophies" width="100%"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bitan-banerjee244&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
 </p>
 
-###  **🎮 Snake Game of My GitHub Commits**
-<img src="https://raw.githubusercontent.com/Bitan-Banerjee244/Bitan-Banerjee244/output/github-snake-dark.svg" style="width: 100%;" alt="GitHub Snake dark mode animation" />
+---
+
+### 🐍 **Snake Game of My GitHub Commits**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake-dark.svg?raw=true&timestamp=20250719">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake.svg?raw=true&timestamp=20250719">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake.svg?raw=true&timestamp=20250719" style="width: 100%;">
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" width="100%"/>
 </p>
@@ -110,8 +125,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244&theme=radical" alt="GitHub Streak" width="100%"/>
 </p>
 
+---
 
-
-
-<hr>
 <h2 align="center">Thanks For Visiting</h2>
