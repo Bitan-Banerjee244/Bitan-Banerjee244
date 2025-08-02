@@ -17,12 +17,7 @@
 
 ### 🌟 About Me
 <div>
-<p>
-  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="100%" align="right"/>
-</p>
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-  
 ---
 
 
@@ -110,7 +105,9 @@
 </p>
 
 ---
-
+<p>
+  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="100%" align="right"/>
+</p>
 ### 🎨 GitHub Trophies
 
 <p align="center">
