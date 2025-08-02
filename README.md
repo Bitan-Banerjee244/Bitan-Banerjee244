@@ -105,14 +105,17 @@
 </p>
 
 ---
-<p>
-  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="100%" align="right"/>
-</p>
-### 🎨 GitHub Trophies
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bitan-banerjee244&theme=radical&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
 </p>
+
+<p>
+  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="100%" align="right"/>
+</p>
+
+
 
 ---
 
