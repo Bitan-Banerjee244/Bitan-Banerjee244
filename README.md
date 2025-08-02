@@ -20,7 +20,7 @@
 ### 🌟 About Me
 
 <p>
-  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="300"  align="right"/>
+  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="300" align="right"/>
 </p>
 
 - 🌱 I’m currently learning **Node.js & MongoDB**  
@@ -28,20 +28,7 @@
 - 📧 Reach me: **bbitan244@gmail.com**  
 - ⚡ Fun fact: *I love solving coding problems & exploring new technologies!*
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
+<br><br><br><br><br><br><br><br>
 
 ---
 
@@ -62,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60"/>
@@ -73,12 +60,15 @@
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true" width="70%">
 </p>
 
 ---
