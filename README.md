@@ -12,17 +12,32 @@
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlign=50&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Coding%20World!&fontSize=30&fontAlign=50&animation=twinkling"/>
 </p>
 
 ---
 
 ### 🌟 About Me
 
+<p>
+  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="300"  align="right"/>
+</p>
+
 - 🌱 I’m currently learning **Node.js & MongoDB**  
 - 💬 Ask me about **JavaScript, TypeScript, React, C++, Python**  
 - 📧 Reach me: **bbitan244@gmail.com**  
-- ⚡ Fun fact: *I love solving coding problems & exploring new technologies!*  
+- ⚡ Fun fact: *I love solving coding problems & exploring new technologies!*
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
 
 ---
 
@@ -47,15 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60"/>
-
 </p>
-
-
-  <p align="right">
-  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="300"/>
-</p>
-
-
 
 ---
 
