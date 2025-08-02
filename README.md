@@ -12,10 +12,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Coding%20World!&fontSize=30&fontAlign=50&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Coding%20World!&fontSize=30&fontAlign=50&animation=twinkling&fontColor=FFFF00"/>
 </p>
-
----
 
 ### 🌟 About Me
 
