@@ -12,21 +12,27 @@
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Coding%20World!&fontSize=30&fontAlign=50&animation=twinkling&fontColor=FFFF00"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20Coding%20World!&fontSize=30&fontAlign=50&animation=twinkling&fontColor=FFFF00"/>
 </p>
 
 ### 🌟 About Me
-
+<div>
 <p>
-  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="300" align="right"/>
+  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="100%" align="right"/>
 </p>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+  
+---
+
+
 
 - 🌱 I’m currently learning **Node.js & MongoDB**  
 - 💬 Ask me about **JavaScript, TypeScript, React, C++, Python**  
 - 📧 Reach me: **bbitan244@gmail.com**  
 - ⚡ Fun fact: *I love solving coding problems & exploring new technologies!*
+</div>
 
-<br><br><br><br><br><br><br><br>
 
 ---
 
@@ -55,21 +61,7 @@
 
 ---
 
-### 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true" width="70%">
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -84,6 +76,26 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" style="fill:#0A66C2;" />
   </a>
 </p>
+
+---
+
+
+### 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%">
+</p>
+
+
+
 
 ---
 
