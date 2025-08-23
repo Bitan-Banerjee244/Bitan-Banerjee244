@@ -23,7 +23,7 @@
 
 
 - 🌱 I’m currently learning **Node.js & MongoDB**  
-- 💬 Ask me about **JavaScript, TypeScript, React, C++, Python**  
+- 💬 Ask me about **JavaScript, React, C++, Python**  
 - 📧 Reach me: **bbitan244@gmail.com**  
 - ⚡ Fun fact: *I love solving coding problems & exploring new technologies!*
 </div>
