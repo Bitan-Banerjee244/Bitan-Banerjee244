@@ -22,7 +22,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js & MongoDB**  
+- 🌱 I’m currently learning **Next.js & Typescript**  
 - 💬 Ask me about **JavaScript, React, C++, Python**  
 - 📧 Reach me: **bbitan244@gmail.com**  
 - ⚡ Fun fact: *I love solving coding problems & exploring new technologies!*
