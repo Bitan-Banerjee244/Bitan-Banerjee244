@@ -16,18 +16,11 @@
 </p>
 
 ### 🌟 About Me
-<div>
-
----
-
-
 
 - 🌱 I’m currently learning **Next.js & Typescript**  
 - 💬 Ask me about **JavaScript, React, C++, Python**  
 - 📧 Reach me: **bbitan244@gmail.com**  
 - ⚡ Fun fact: *I love solving coding problems & exploring new technologies!*
-</div>
-
 
 ---
 
@@ -38,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60"/>
@@ -48,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" title="Tailwind CSS"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60"/>
@@ -56,41 +50,35 @@
 
 ---
 
-
-
 ### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://leetcode.com/u/CodingBitan/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
   </a>
   <a href="https://www.facebook.com/share/19psTuMHQY/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/bitan-banerjee-6aa108369/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" style="fill:#0A66C2;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" height="40" style="fill:#0A66C2;"/>
   </a>
 </p>
 
 ---
 
-
-### 🏆 GitHub Stats
+### 🏆 GitHub Stats (WORKING)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://streak-stats.demolab.com?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%">
 </p>
-
-
-
 
 ---
 
@@ -98,14 +86,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake-dark.svg?raw=true&timestamp=20250719">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake.svg?raw=true&timestamp=20250719">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake.svg?raw=true&timestamp=20250719" style="width: 100%;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake.svg" width="100%"/>
   </picture>
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bitan-banerjee244&theme=radical&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
@@ -114,8 +101,6 @@
 <p>
   <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="100%" align="right"/>
 </p>
-
-
 
 ---
 
