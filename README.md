@@ -66,7 +66,7 @@
 
 ---
 
-### 🏆 GitHub Stats (WORKING)
+### 🏆 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true" width="100%">
 </p>
