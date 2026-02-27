@@ -6,21 +6,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=700&color=FF61D2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bitan+Banerjee" alt="Typing SVG" />
 </h1>
 
-<!-- Typewriter for Passionate Developer -->
+<!-- Professional Subtitle -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00C9A7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Passionate+Web+Developer;%F0%9F%92%BB+Programmer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00C9A7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Passionate+MERN+Stack+Web+Developer;AI%2FML+Enthusiast;%F0%9F%92%BB+Computer+Science+Student+%7C+India" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20Coding%20World!&fontSize=30&fontAlign=50&animation=twinkling&fontColor=FFFF00"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome&fontSize=30&fontAlign=50&animation=twinkling&fontColor=FFFF00"/>
 </p>
+
+---
 
 ### 🌟 About Me
 
-- 🌱 I’m currently learning **Next.js & Typescript**  
-- 💬 Ask me about **JavaScript, React, C++, Python**  
-- 📧 Reach me: **bbitan244@gmail.com**  
-- ⚡ Fun fact: *I love solving coding problems & exploring new technologies!*
+- 🌱 Currently learning **Next.js and TypeScript**  
+- 💬 Ask me about **JavaScript, React, C++, and Python**  
+- 📧 Reach me at **bbitan244@gmail.com**  
+- ⚡ I enjoy solving coding problems and exploring new technologies  
 
 ---
 
@@ -38,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
@@ -62,17 +65,21 @@
   <a href="https://www.linkedin.com/in/bitan-banerjee-6aa108369/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" height="40" style="fill:#0A66C2;"/>
   </a>
+  <a href="https://www.instagram.com/its_bitan244/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
+  </a>
 </p>
 
 ---
 
 ### 🏆 GitHub Stats 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="100%" />
 </p>
 
 <p align="center">
@@ -104,7 +111,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting%20🙏&fontSize=25&fontAlign=50&animation=twinkling&fontColor=FFFFFF"/>
 </p>
-
-<h2 align="center">Thanks For Visiting 🙏</h2>
