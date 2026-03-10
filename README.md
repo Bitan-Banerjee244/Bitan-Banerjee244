@@ -1,4 +1,4 @@
-<h1 align="center">💫 Hi, I'm Bitan Banerjee</h1>
+<h2 align="center">💫 Hi, I'm Bitan Banerjee</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%2F+ML+Enthusiast;Hungry+Learner;Love+Solving+Real+World+Problems"/>
@@ -75,12 +75,12 @@
 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bitan-banerjee244&theme=dracula" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitan-banerjee244&theme=dracula" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bitan-banerjee244&theme=dracula" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitan-banerjee244&theme=dracula" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=bitan-banerjee244&theme=dracula&hide_border=true" width="98%"/>
 </p>
 
 
@@ -107,5 +107,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer&text=Thanks%20for%20Visiting%20🙏&fontSize=25&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer&text=Thanks%20for%20Visiting%20🙏&fontSize=29&fontColor=ffffff"/>
 </p>
