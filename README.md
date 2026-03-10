@@ -54,7 +54,7 @@
 ## 🌐 Connect With Me
 
 <a href="https://leetcode.com/u/CodingBitan/">
-<img src="https://skillicons.dev/icons?i=leetcode" width="38" height="38"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38" height="38"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bitan-banerjee-6aa108369/">
