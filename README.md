@@ -1,115 +1,111 @@
-<!-- Banner -->
-<img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="Banner" width="100%"/>
-
-<!-- Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=700&color=FF61D2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bitan+Banerjee" alt="Typing SVG" />
-</h1>
-
-<!-- Professional Subtitle -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00C9A7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Passionate+MERN+Stack+Web+Developer;AI%2FML+Enthusiast;%F0%9F%92%BB+Computer+Science+Student+%7C+India" alt="Typing SVG" />
-</h3>
+<h1 align="center">💫 Hi, I'm Bitan Banerjee</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome&fontSize=30&fontAlign=50&animation=twinkling&fontColor=FFFF00"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%2F+ML+Enthusiast;Hungry+Learner;Love+Solving+Real+World+Problems"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%">
 </p>
 
 ---
 
-### 🌟 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **Next.js and TypeScript**  
-- 💬 Ask me about **JavaScript, React, C++, and Python**  
-- 📧 Reach me at **bbitan244@gmail.com**  
-- ⚡ I enjoy solving coding problems and exploring new technologies  
-
----
-
-### ⚡ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60"/>
-</p>
+- 🎓 B.Tech in Computer Science  
+- 💻 Passionate about **Web Development, Software Engineering, and AI/ML**  
+- 🧠 Skilled in building **full stack applications using the MERN stack**  
+- 📊 Interested in **data analysis and visualization with Python**  
+- 🧩 Enjoy solving coding problems and exploring new technologies  
+- 🔍 Currently exploring: **Next.js, Machine Learning, Low-Level Design (LLD), and TypeScript** 
+- 📧 Email: **bbitan244@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## ⚡ Tech Stack
+<div>
+<img src="https://skillicons.dev/icons?i=html" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=css" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=js" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=ts" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=react" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=redux" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=express" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=c" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=python" width="42" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="42" height="42"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=git" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=github" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=figma" width="42" height="42"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/>
+</div>
 
-<p align="left">
-  <a href="https://leetcode.com/u/CodingBitan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/share/19psTuMHQY/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bitan-banerjee-6aa108369/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" height="40" style="fill:#0A66C2;"/>
-  </a>
-  <a href="https://www.instagram.com/its_bitan244/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
-  </a>
+---
+
+## 🌐 Connect With Me
+
+<a href="https://leetcode.com/u/CodingBitan/">
+<img src="https://skillicons.dev/icons?i=leetcode" width="38" height="38"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bitan-banerjee-6aa108369/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="38" height="38"/>
+</a>
+
+<a href="https://www.instagram.com/its_bitan244/">
+<img src="https://skillicons.dev/icons?i=instagram" width="38" height="38"/>
+</a>
+
+<a href="https://www.facebook.com/share/19psTuMHQY/">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="38" height="38"/>
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bitan-banerjee244&theme=dracula" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitan-banerjee244&theme=dracula" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%"/>
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake-dark.svg" width="100%"/>
 </p>
 
 ---
 
-### 🏆 GitHub Stats 
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%">
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/bitan-banerjee244/bitan-banerjee244/output/github-snake.svg" width="100%"/>
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bitan-banerjee244&theme=radical&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
-</p>
-
-<p>
-  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="100%" align="right"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bitan-banerjee244&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting%20🙏&fontSize=25&fontAlign=50&animation=twinkling&fontColor=FFFFFF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer&text=Thanks%20for%20Visiting%20🙏&fontSize=25&fontColor=ffffff"/>
 </p>
