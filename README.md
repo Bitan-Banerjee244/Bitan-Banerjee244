@@ -74,7 +74,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=dracula&hide_border=true&langs_count=8&count_private=true&hide=Jupyter%20Notebook&cache_seconds=1800" width="100%" />
 </p>
 
 <p align="center">
