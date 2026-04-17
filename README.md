@@ -23,7 +23,7 @@
 ---
 
 ## ⚡ Tech Stack
-<div style = "display : flex">
+<div style = "display : flex ; justify-content:space-around;">
 <img src="https://skillicons.dev/icons?i=html" width="42" height="42"/>
 <img src="https://skillicons.dev/icons?i=css" width="42" height="42"/>
 <img src="https://skillicons.dev/icons?i=js" width="42" height="42"/>
