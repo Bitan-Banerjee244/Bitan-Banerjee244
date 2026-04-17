@@ -23,7 +23,7 @@
 ---
 
 ## ⚡ Tech Stack
-<div style = "display : flex ; justify-content:space-around;">
+<p>
 <img src="https://skillicons.dev/icons?i=html" width="42" height="42"/>
 <img src="https://skillicons.dev/icons?i=css" width="42" height="42"/>
 <img src="https://skillicons.dev/icons?i=js" width="42" height="42"/>
@@ -47,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=github" width="42" height="42"/>
 <img src="https://skillicons.dev/icons?i=figma" width="42" height="42"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/>
-</div>
+</p>
 
 ---
 
