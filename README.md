@@ -23,7 +23,7 @@
 ---
 
 ## ⚡ Tech Stack
-<div>
+<div align = "center">
 <img src="https://skillicons.dev/icons?i=html" width="42" height="42"/>
 <img src="https://skillicons.dev/icons?i=css" width="42" height="42"/>
 <img src="https://skillicons.dev/icons?i=js" width="42" height="42"/>
