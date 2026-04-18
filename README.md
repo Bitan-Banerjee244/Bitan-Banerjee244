@@ -8,6 +8,10 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%">
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Bitan-Banerjee244&label=Profile%20views&color=4a91d9&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
