@@ -23,8 +23,9 @@
 ---
 
 ## ⚡ Tech Stack
+
 <div>
-<img src="https://skillicons.dev/icons?i=html" width="42" height="42" align="left" valign="top"/>
+<img src="https://skillicons.dev/icons?i=html" width="42" height="42" align="left"/>
 <img src="https://skillicons.dev/icons?i=css" width="42" height="42" align="left"/>
 <img src="https://skillicons.dev/icons?i=js" width="42" height="42" align="left"/>
 <img src="https://skillicons.dev/icons?i=ts" width="42" height="42" align="left"/>
@@ -47,17 +48,20 @@
 <img src="https://skillicons.dev/icons?i=github" width="42" height="42" align="left"/>
 <img src="https://skillicons.dev/icons?i=figma" width="42" height="42" align="left"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" align="left"/>
-<div style="clear:both;"></div>
 </div>
+
+
+<br/>
+<br/>
 
 ---
 
-<br/>
-<br/>
 
+
+<div>
 
 ## 🌐 Connect With Me
-
+  
 <a href="https://leetcode.com/u/CodingBitan/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38" height="38" align="left"/>
 </a>
@@ -73,6 +77,8 @@
 <a href="https://www.facebook.com/bitanbanerjee244">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="38" height="38" align="left"/>
 </a>
+
+</div>
 
 <br/>
 <br/>
