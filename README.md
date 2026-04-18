@@ -23,53 +23,63 @@
 ---
 
 ## ⚡ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=html" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=css" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=js" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=ts" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=react" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=redux" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=express" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=c" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=python" width="42" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="42" height="42"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=git" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=github" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=figma" width="42" height="42"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/>
-</p>
+<div>
+<img src="https://skillicons.dev/icons?i=html" width="42" height="42" align="left" valign="top"/>
+<img src="https://skillicons.dev/icons?i=css" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=js" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=ts" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=react" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=redux" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=express" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=c" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=python" width="42" height="42" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" align="left"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="42" height="42" align="left"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=git" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=github" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=figma" width="42" height="42" align="left"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" align="left"/>
+<div style="clear:both;"></div>
+</div>
 
 ---
+
+<br/>
+<br/>
+
 
 ## 🌐 Connect With Me
 
 <a href="https://leetcode.com/u/CodingBitan/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38" height="38"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38" height="38" align="left"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bitan-banerjee-6aa108369/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="38" height="38"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="38" height="38"  align="left"/>
 </a>
 
 <a href="https://www.instagram.com/its_bitan244/">
-<img src="https://skillicons.dev/icons?i=instagram" width="38" height="38"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="38" height="38"  align="left"/>
 </a>
 
 <a href="https://www.facebook.com/bitanbanerjee244">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="38" height="38"/>
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="38" height="38" align="left"/>
 </a>
 
+<br/>
+<br/>
+
 ---
+
+
 
 ## 📊 GitHub Stats
 
