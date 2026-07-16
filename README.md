@@ -49,6 +49,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" />
+  <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" alt="FastAPI" />
 
   <img src="https://skillicons.dev/icons?i=git" width="48" />
   <img src="https://skillicons.dev/icons?i=github" width="48" />
