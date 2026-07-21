@@ -40,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
   <img src="https://skillicons.dev/icons?i=express" width="48" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" />
   <img src="https://skillicons.dev/icons?i=cpp" width="48" />
   <img src="https://skillicons.dev/icons?i=c" width="48" />
   <img src="https://skillicons.dev/icons?i=python" width="48" />
