@@ -98,7 +98,7 @@
 <img src="https://streak-stats.demolab.com?user=bitan-banerjee244&theme=dracula&hide_border=true" width="98%"/>
 </p>
 
-
+[![Bitan-Banerjee244's GitHub badges](https://gitshine.com/badges/Bitan-Banerjee244)](https://gitshine.com/stats/Bitan-Banerjee244#badges)
 ---
 
 ## 🐍 Contribution Snake
